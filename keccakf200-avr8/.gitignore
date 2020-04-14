@@ -1,0 +1,5 @@
+main-CW303.elf
+main-CW303.hex
+main-CW303.map
+objdir/
+.dep/
